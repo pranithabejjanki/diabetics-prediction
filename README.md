@@ -1,0 +1,2 @@
+# diabetics-prediction
+DIABETES DETECTION USING MACHINE LEARNING
